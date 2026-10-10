@@ -1,0 +1,12 @@
+{
+  "scope": "人工目视标注的合成图测试期望，不是飞书AI实际输出",
+  "sku_text": "AF-RU-001",
+  "label_qty": 2,
+  "cases": [
+    {"file": "A-two-visible.png", "complete_visible_items": 2, "total_determinable": true, "total": 2, "label_comparison": "一致"},
+    {"file": "B-one-visible-label-two.png", "complete_visible_items": 1, "total_determinable": true, "total": 1, "label_comparison": "不一致"},
+    {"file": "C-occluded.png", "complete_visible_items": 1, "total_determinable": false, "total": null, "label_comparison": "无法判断"}
+  ],
+  "feishu_ai_test_status": "未运行",
+  "real_product_accuracy": "未验证"
+}

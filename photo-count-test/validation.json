@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-10T22:02:05.600658+08:00",
+  "script_tests": {
+    "scope": "本地模拟接口",
+    "passed": 9,
+    "failed": 0
+  },
+  "images": {
+    "generated": 3,
+    "visually_reviewed": 3,
+    "source": "AI生成的模拟图"
+  },
+  "real_feishu_columns_created": false,
+  "feishu_ai_images_tested": false,
+  "official_docs_access": "当前代理返回403，待网络配置与官方接口联调"
+}
